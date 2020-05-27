@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://emmyphung.github.io/personal-page.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Emmyphung/personal-page.github.io"
-teaser                   : /images/washsquare2.jpg
+teaser                   : "/images/washsquare2.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Emmy Phung"
-  avatar           : "/images/profile.png"
-  bio              : "A data scientist who loves solving puzzles, riddles, and data science problems. And a visual arts enthusiast."
+  avatar           : /images/profile.png
+  bio              : "A data scientist who loves solving puzzles, riddles, and data science problems. A visual arts enthusiast."
   location         : "New York City"
   email            : "emmy.phung@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
