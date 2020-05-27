@@ -229,7 +229,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path:
       type: talks
     values:
       layout: talk
