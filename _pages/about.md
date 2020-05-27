@@ -17,8 +17,8 @@ During my master's, I dig deep into Probability & Statistics and Linear Algebra,
 
 Interests
 ======
-**Community Project**
+**Community Project** <br>
 Pivoting into data science from a non-tech background, I have had to pick up a lot on my own, through reading blog posts, attending online courses, and learning from online Data Science/AI community. This motivates me to share my learning journey to inspire and help other young learners, especially those from my home country, Vietnam. I founded and am currently managing **Data Science in Brief (DSinbrief)**, an online community of 2,500 Data Science practitioners, learners, and enthusiasts in Vietnam. 
 
-**Visual Arts**
+**Visual Arts** <br>
 I love visual arts. To me, it is a natural form of communication that can speak more than words. And it is of endless fun. I've worked with sculpture, collage, multi-media, photography, fashion, book illustration, painting and graphic design, all of which have brought me so much joy. I've always sought opportunities to incorporate my visual thinking into my work, such designing infographics for companies I've worked for as a side project, helping startups editing their business pitch deck, and visualizing data to better communicate my findings.
