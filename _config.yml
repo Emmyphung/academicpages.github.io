@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emmy Phung"
-  avatar           : /images/profile.png
+  avatar           : profile.png
   bio              : "A data scientist who loves solving puzzles, riddles, and data science problems. A visual arts enthusiast."
   location         : "New York City"
   email            : "emmy.phung@nyu.edu"
