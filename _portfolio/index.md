@@ -6,9 +6,4 @@ Our methodology defines “success” as a binary variable through an explorator
 <br>
 Models: Decision Tree, Random Forest, and Logistic Regression.<br/><img src='images/yelp_project.png'>"
 collection: portfolio
-
-[**Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?**](https://github.com/Emmyphung/Vegas_foodies)
-
-[![Models](https://img.shields.io/badge/Jupyter-Models-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/models_vegas_final.ipynb)
-[![Recommender System](https://img.shields.io/badge/Jupyter-Recommender_System-blue?logo=Jupyter)](https://github.com/Emmyphung/Vegas_foodies/blob/master/models/vegas_recommender_system.ipynb)
 ---
