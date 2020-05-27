@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://emmyphung.github.io/personal-page.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Emmyphung/personal-page.github.io"
-teaser                   : "/images/washsquare2.jpg"
+teaser                   : /images/washsquare2.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
